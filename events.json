@@ -107,12 +107,12 @@
       "id": 6
     },
     {
-      "createdBy": "2",
+      "createdBy": 4,
       "title": "Dummy Event",
       "description": "dummy description dummy description dummy description dummy description dummy description",
       "image": "https://cdn-az.allevents.in/events7/banners/4def3faa0b175ce0484c447f3488583f9bda9c2e10041b728f0d04d3bca9da03-rimg-w960-h497-gmir.jpg",
       "categoryIds": [
-        3
+        5
       ],
       "location": "Dummy Location",
       "startTime": "2023-03-10T18:00",
