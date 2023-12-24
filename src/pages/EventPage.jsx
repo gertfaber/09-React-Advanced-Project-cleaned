@@ -148,8 +148,18 @@ export const EventPage = () => {
 
   return (
     <>
-      <Box flexDir="column" padding={10} border="1px solid #000" w="100%">
-        <Center flexDir="column" w="100%" border="1px solid #000" padding={10}>
+      <Box
+        flexDir="column"
+        padding={10}
+        // border="1px solid #000"
+        w="100%"
+      >
+        <Center
+          flexDir="column"
+          w="100%"
+          // border="1px solid #000"
+          padding={10}
+        >
           <Card bg="gray.100" w={"100%"}>
             <CardBody textAlign="left" borderRadius="lg">
               <Image

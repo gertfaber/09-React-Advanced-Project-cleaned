@@ -150,8 +150,18 @@ export const EventsPage = () => {
   });
 
   return (
-    <Box flexDir="column" padding={1} border="1px solid #000" w="100%">
-      <Center flexDir="column" w="100%" border="1px solid #000" padding={10}>
+    <Box
+      flexDir="column"
+      padding={1}
+      // border="1px solid #000"
+      w="100%"
+    >
+      <Center
+        flexDir="column"
+        w="100%"
+        // border="1px solid #000"
+        padding={10}
+      >
         <Heading paddingBottom="4">List of Events</Heading>
         <Box paddingBottom="4">
           <Input
